@@ -12,4 +12,4 @@ else
 end
 end
 
-my_each(list) {|i| puts "This #{i} thing is weird"}
+my_each(array) {|i| puts "This #{i} thing is weird"}
